@@ -16,4 +16,32 @@ steamid64, (color)
 76561198175781481, (0.188, 0.188, 0.188) ; phanie
 76561198023217670, (0.376, 0.769, 0.925) ; Silver
 76561199115666551, (0.643, 0.173, 1.0) ; DustyLemny
-76561198374506732, (); Autogen cape for Captain Redstone (user ID "captainredstone"
+
+
+
+76561198374506732, (); Autogen cape for Captain Redstone (user ID "captainredstone")
+76561198424369219, (); Autogen cape for glebi574
+76561198972803474, (); Autogen cape for BracketProto
+76561198081349802, (); Autogen cape for slammerlc
+76561198036441686, (); Autogen cape for 1c3bear
+76561198275820090, (); Autogen cape for the.foo
+76561199126104592, (); Autogen cape for Ya_Boi
+76561198155148463, (); Autogen cape for Tryn1010
+76561198947388627, (); Autogen cape for CHEKKIT
+76561198159167537, (); Autogen cape for wonky2
+76561198400831031, (); Autogen cape for one_letter_shor_
+76561198158197388, (); Autogen cape for ombekende
+76561198189996022, (); Autogen cape for autumnis
+76561199345139987, (); Autogen cape for Infamousdog55
+76561199524228391, (); Autogen cape for bobo098586
+76561198324981884, (); Autogen cape for kittybit
+76561198313937915, (); Autogen cape for crimsonzn
+76561199198914704, (); Autogen cape for unknownagon
+76561198799823852, (); Autogen cape for H077y
+76561198817618945, (); Autogen cape for lachlan.04
+76561198201804903, (); Autogen cape for z_man323
+76561198284689142, (); Autogen cape for Lunathir
+76561198854548935, (); Autogen cape for bugin.around
+76561198402386517, (); Autogen cape for scuglat
+76561199011823594, (); Autogen cape for Vanx2
+76561199151263359, (); Autogen cape for idklol1166
