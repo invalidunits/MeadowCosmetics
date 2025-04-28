@@ -40,8 +40,6 @@ steamid64, (color)
 
 76561199790308248, (); Autogen cape for Dj Krissy Love
 76561199063162178, (); Autogen cape for Ablaze
-76561199790308248, (); Autogen cape for Dj Krissy Love
-76561199063162178, (); Autogen cape for Ablaze
 76561199198914704, (); Autogen cape for unknownagon
 76561198799823852, (); Autogen cape for H077y
 76561198817618945, (); Autogen cape for lachlan.04
