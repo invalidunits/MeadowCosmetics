@@ -36,10 +36,6 @@ steamid64, (color)
 76561199524228391, (); Autogen cape for bobo098586
 76561198324981884, (); Autogen cape for kittybit
 76561198313937915, (); Autogen cape for crimsonzn
-
-
-76561199790308248, (); Autogen cape for Dj Krissy Love
-76561199063162178, (); Autogen cape for Ablaze
 76561199198914704, (); Autogen cape for unknownagon
 76561198799823852, (); Autogen cape for H077y
 76561198817618945, (); Autogen cape for lachlan.04
@@ -49,3 +45,7 @@ steamid64, (color)
 76561198402386517, (); Autogen cape for scuglat
 76561199011823594, (); Autogen cape for Vanx2
 76561199151263359, (); Autogen cape for idklol1166
+
+
+76561199790308248, (); Autogen cape for Dj Krissy Love
+76561199063162178, (); Autogen cape for Ablaze
