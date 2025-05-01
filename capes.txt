@@ -30,6 +30,7 @@ steamid64, (color)
 76561198947388627, (); Autogen cape for CHEKKIT
 76561198159167537, (); Autogen cape for wonky2
 76561198400831031, (); Autogen cape for one_letter_shor_
+76561198384307578, (); Autogen cape for castyblank
 76561198158197388, (); Autogen cape for ombekende
 76561198189996022, (); Autogen cape for autumnis
 76561199345139987, (); Autogen cape for Infamousdog55
