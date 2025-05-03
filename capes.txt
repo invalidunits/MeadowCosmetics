@@ -60,6 +60,7 @@ steamid64, (color)
 76561198319688274, (); Autogen cape for awryphosphor
 76561198164420976, (); Autogen cape for frickyhecks1
 76561198986558859, (); Autogen cape for dragonmiu_
+76561198246222616, (); Autogen cape for Zyb3rS
 76561198427554043, (); Autogen cape for FluxSquido
 76561198798340133, (); Autogen cape for FloofyDerg
 76561199060587052, (); Autogen cape for azuquirtle.
