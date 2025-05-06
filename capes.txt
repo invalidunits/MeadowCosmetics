@@ -67,3 +67,19 @@ steamid64, (color)
 76561198815447587, (); Autogen cape for echo_159
 76561199211455313, (); Autogen cape for kirba_7
 76561199800530396, (); Autogen cape for nonidiot_vrchat
+
+76561198118729773, ; Autogen cape for N8rtot
+76561198796187245, ; Autogen cape for spinynx
+76561198132359190, ; Autogen cape for atomixspark
+76561198112272029, ; Autogen cape for iiul
+76561199005268316, ; Autogen cape for The Goobert™️
+76561199001565786, ; Autogen cape for sammy_tophat
+76561198292418309, ; Autogen cape for iloveu123
+76561199223646875, ; Autogen cape for yes
+76561198221251224, ; Autogen cape for CosmoCH
+76561199150025028, ; Autogen cape for Arcifoam
+76561199082195445, ; Autogen cape for mako3455
+76561198929282998, ; Autogen cape for XvX
+76561199097701841, ; Autogen cape for Lonely_Wolf
+76561199193825456, ; Autogen cape for ct1313.
+76561198801897512, ; Autogen cape for RupeeMistress
