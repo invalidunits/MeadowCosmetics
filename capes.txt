@@ -83,3 +83,17 @@ steamid64, (color)
 76561199097701841, (); Autogen cape for Lonely_Wolf
 76561199193825456, (); Autogen cape for ct1313.
 76561198801897512, (); Autogen cape for RupeeMistress
+
+76561199017710269, (); Autogen cape for w00fwolf
+76561199046646862, (); Autogen cape for Golgor
+76561198062628058, (); Autogen cape for mun
+76561198063385909, (); Autogen cape for syrilth1
+76561198268718727, (); Autogen cape for CozyGifts
+76561198440340867, (); Autogen cape for babaint
+76561199519380309, (); Autogen cape for bluedragon8
+76561199344064185, (); Autogen cape for @a_buge
+76561198053983286, (); Autogen cape for nyxlanders
+76561199814548074, (); Autogen cape for raylss
+76561198159629303, (); Autogen cape for dr.marlboro
+76561198424289112, (); Autogen cape for charlie.kri
+76561199135967108, (); Autogen cape for Flippie#3996
