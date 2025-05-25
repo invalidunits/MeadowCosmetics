@@ -97,3 +97,11 @@ steamid64, (color)
 76561198159629303, (); Autogen cape for dr.marlboro
 76561198424289112, (); Autogen cape for charlie.kri
 76561199135967108, (); Autogen cape for Flippie#3996
+
+76561199364067230, (); Autogen cape for muraine (fooraine on server)
+76561199093551245, (); Autogen cape for Greewhick
+76561199214831266, (); Autogen cape for Cyanstars
+76561198177478049, (); Autogen cape for skeffir
+76561199189826551, (); Autogen cape for rikyeh
+76561199811226296, (); Autogen cape for Rotting_Friend
+76561199580012942, (); Autogen cape for lucianlhsystem
