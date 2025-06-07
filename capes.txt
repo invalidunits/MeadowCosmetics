@@ -105,3 +105,12 @@ steamid64, (color)
 76561199189826551, (); Autogen cape for rikyeh
 76561199811226296, (); Autogen cape for Rotting_Friend
 76561199580012942, (); Autogen cape for lucianlhsystem
+
+76561198832382254, (); Autogen cape for BouncyBonBon
+76561199235405347, (); Autogen cape for Ultimate_unity // ant
+76561199498501223, (); Autogen cape for ottermatter
+76561198423075462, (); Autogen cape for www.seg.com
+76561199131121188, (); Autogen cape for SBriz
+76561198367409874, (); Autogen cape for adhan4040
+76561199050556478, (); Autogen cape for hustython
+76561199005306895, (); Autogen cape for timicatto
