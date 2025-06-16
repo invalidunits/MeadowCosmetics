@@ -114,3 +114,9 @@ steamid64, (color)
 76561198367409874, (); Autogen cape for adhan4040
 76561199050556478, (); Autogen cape for hustython
 76561199005306895, (); Autogen cape for timicatto
+
+76561198870682448, (); Autogen cape for craftedleah
+76561199588631760, (); Autogen cape for Chatterbox_27778
+76561199037878813, (); Autogen cape for direye
+76561199247837478, (); Autogen cape for starryswirls
+76561198088698102, (); Autogen cape for Obidobe / nugget_073
