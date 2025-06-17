@@ -120,3 +120,6 @@ steamid64, (color)
 76561199037878813, (); Autogen cape for direye
 76561199247837478, (); Autogen cape for starryswirls
 76561198088698102, (); Autogen cape for Obidobe / nugget_073
+
+76561199801239773, (); Autogen cape for Dark_Ninja147
+76561198997173388, (); Autogen cape for Nexivy
