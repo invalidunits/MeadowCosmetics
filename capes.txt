@@ -123,3 +123,12 @@ steamid64, (color)
 
 76561199801239773, (); Autogen cape for Dark_Ninja147
 76561198997173388, (); Autogen cape for Nexivy
+
+76561198105772419, (); Autogen cape for elkcrown
+76561199497956458, (); Autogen cape for dapper_lith
+76561199013339471, (); Autogen cape for indominusfox.
+76561199810274815, (); Autogen cape for Boblo
+76561199165145258, (); Autogen cape for chirpingwolf
+76561199093697981, (); Autogen cape for shiwan.
+76561199067631074, (); Autogen cape for Kaid | k.m.3
+76561198057418902, (); Autogen cape for angeldergo
